@@ -1,0 +1,214 @@
+4:9
+跌倒誤判
+142 C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-外套右邊口袋-走路右跌1.txt
+267 C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路前跌3.txt
+334 C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子左後口袋-走路左跌2.txt
+692 C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子右後口袋-走路右跌1.txt
+731 C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套左邊口袋-走路左跌2.txt
+776 C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子右前口袋-走路右跌2.txt
+857 C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套右邊口袋-走路左跌2.txt
+
+日常動作被誤判(不過被二維救回來)
+666: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子右前口袋-走路緩慢坐下3.txt
+727: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路坐下2.txt
+737: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/宗華-褲子左前口袋-走路坐下4.txt
+825: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路蹲下1.txt
+828: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路緩慢坐下5.txt
+
+被一維排除
+662: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子右後口袋-走路後跌3.txt
+807: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子左前口袋-走路後跌2.txt
+892: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路前跌1.txt
+
+3:8
+跌倒誤判
+27: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子右後口袋-走路左跌4.txt
+35: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路後跌3.txt
+219: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左前口袋-走路右跌3.txt
+437: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子左後口袋-走路右跌3.txt
+888: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路右跌4.txt
+
+日常動作被誤判(不過被二維救回來)
+851: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/文祥-外套左邊口袋-跑步4.txt
+
+被一維排除
+644: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左後口袋-走路左跌3.txt
+677: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路右跌1.txt
+708: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套左邊口袋-走路左跌1.txt
+725: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路前跌2.txt
+759: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路前跌2.txt
+779: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套右邊口袋-走路右跌2.txt
+857: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左前口袋-走路前跌2.txt
+
+2:7
+跌倒誤判
+122: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子右後口袋-走路右跌2.txt
+157: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子右後口袋-走路後跌5.txt
+890: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套左邊口袋-走路左跌1.txt
+906: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路後跌5.txt
+
+被一維排除
+650: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路前跌2.txt
+737: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路左跌2.txt
+907: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路前跌2.txt
+
+1:6
+跌倒誤判
+101: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子右前口袋-走路前跌1.txt
+103: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左前口袋-走路前跌5.txt
+132: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左前口袋-走路右跌4.txt
+658: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路後跌3.txt
+725: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子右後口袋-走路右跌2.txt
+793: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子右後口袋-走路左跌5.txt
+814: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-上衣口袋-走路右跌1.txt
+818: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子右後口袋-走路前跌2.txt
+
+被一維排除
+693: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路前跌3.txt
+712: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路左跌4.txt
+832: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路前跌2.txt
+
+6:1
+跌倒誤判
+12: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-上衣口袋-走路前跌4.txt
+41: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子右後口袋-走路前跌1.txt
+159: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路前跌1.txt
+253: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子右前口袋-走路右跌3.txt
+366: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路左跌1.txt
+510: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子右後口袋-走路右跌1.txt
+613: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套右邊口袋-走路右跌5.txt
+804: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左後口袋-走路左跌5.txt
+851: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-外套左邊口袋-走路左跌3.txt
+
+被一維排除
+774: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路後跌2.txt
+808: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路前跌1.txt
+
+日常動作被誤判(不過被二維救回來)
+643: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路蹲下1.txt
+695: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/文祥-褲子右後口袋-走路緩慢坐下4.txt
+720: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/泓岑-褲子右前口袋-走路坐下5.txt
+765: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/文祥-外套右邊口袋-跑步4.txt
+828: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/宗華-上衣口袋-走路坐下4.txt
+
+7:2
+跌倒誤判
+17: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套右邊口袋-走路右跌5.txt
+73: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左後口袋-走路右跌5.txt
+338: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子左後口袋-走路右跌5.txt
+364: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子右前口袋-走路左跌2.txt
+405: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右後口袋-走路後跌5.txt
+577: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左後口袋-走路前跌2.txt
+607: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-褲子左前口袋-走路後跌1.txt
+860: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左後口袋-走路左跌1.txt
+873: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左前口袋-走路前跌1.txt
+
+被一維排除
+661: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-上衣口袋-走路前跌1.txt
+678: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子左前口袋-走路右跌4.txt
+710: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路前跌1.txt
+808: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路前跌1.txt
+
+日常動作被誤判(不過被二維救回來)
+643: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路蹲下1.txt
+863: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/宗華-褲子左後口袋-走路蹲下1.txt
+866: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/文祥-褲子左前口袋-走路2.txt
+
+8:3
+跌倒誤判
+121: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路前跌5.txt
+163: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路前跌5.txt
+273: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左後口袋-走路前跌4.txt
+305: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左前口袋-走路後跌5.txt
+409: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路左跌2.txt
+599: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套右邊口袋-走路左跌2.txt
+
+被一維排除
+661: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-上衣口袋-走路前跌1.txt
+710: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路前跌1.txt
+774: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路後跌2.txt
+808: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路前跌1.txt
+822: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路前跌2.txt
+873: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左前口袋-走路前跌1.txt
+
+日常動作被誤判(不過被二維救回來)
+643: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路蹲下1.txt
+761: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路坐下1.txt
+
+9:4
+跌倒誤判
+46: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套右邊口袋-走路左跌3.txt
+136: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子右前口袋-走路左跌1.txt
+146: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套左邊口袋-走路左跌4.txt
+505: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路左跌4.txt
+
+日常動作被誤判(不過被二維救回來)
+761: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路坐下1.txt
+765: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/文祥-外套右邊口袋-跑步4.txt
+826: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/宗華-外套右邊口袋-走路坐下2.txt
+
+被一維排除
+691: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路前跌4.txt
+704: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子左前口袋-走路右跌3.txt
+808: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路前跌1.txt
+851: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-外套左邊口袋-走路左跌3.txt
+
+0:5
+跌倒誤判
+103: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子右後口袋-走路前跌1.txt
+524: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路右跌4.txt
+618: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子右前口袋-走路左跌1.txt
+675: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套右邊口袋-走路左跌2.txt
+705: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左前口袋-走路左跌5.txt
+707: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左前口袋-走路前跌5.txt
+731: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子右前口袋-走路後跌2.txt
+764: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-褲子右前口袋-走路右跌5.txt
+799: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路左跌1.txt
+
+被一維排除
+104: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路前跌2.txt
+191: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路左跌2.txt
+313: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路右跌1.txt
+361: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路前跌2.txt
+493: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左前口袋-走路前跌2.txt
+511: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-上衣口袋-走路左跌5.txt
+661: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-上衣口袋-走路前跌1.txt
+710: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路前跌1.txt
+808: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路前跌1.txt
+822: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路前跌2.txt
+
+日常動作被誤判(不過被二維救回來)
+124: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路蹲下4.txt
+426: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/文祥-褲子左後口袋-走路坐下2.txt
+555: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/宗華-褲子左前口袋-走路坐下4.txt
+643: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路蹲下1.txt
+761: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/褲子左前口袋-走路坐下1.txt
+
+5:0
+跌倒誤判
+73: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子左後口袋-走路右跌5.txt
+308: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-外套左邊口袋-走路前跌2.txt
+725: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路後跌4.txt
+840: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-外套左邊口袋-走路後跌3.txt
+日常動作被誤判(不過被二維救回來)
+430: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/文祥-褲子左前口袋-走路1.txt
+805: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/上衣口袋-走路坐下2.txt
+
+日常動作被誤判(沒被二維救回來)
+631: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/外套右邊口袋-走路坐下1.txt
+740: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\0/泓岑-褲子左後口袋-走路緩慢坐下5.txt
+
+被一維排除
+12: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/文祥-上衣口袋-走路前跌4.txt
+87: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套左邊口袋-走路後跌4.txt
+150: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路左跌3.txt
+290: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/外套右邊口袋-走路右跌4.txt
+419: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路右跌5.txt
+471: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路右跌4.txt
+579: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路右跌2.txt
+624: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路後跌4.txt
+666: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路右跌3.txt
+800: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/泓岑-外套右邊口袋-走路左跌4.txt
+804: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/褲子右前口袋-走路前跌4.txt
+848: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/宗華-褲子左前口袋-走路前跌1.txt
+894: C:/Users/denni/Desktop/實驗/DateSet/兩變數/train_2 (原始)\1/上衣口袋-走路左跌4.txt
